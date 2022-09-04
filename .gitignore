@@ -1,9 +1,2 @@
-﻿################################################################################
-# この .gitignore ファイルは Microsoft(R) Visual Studio によって自動的に作成されました。
-################################################################################
-
-/DotNetLib/CmnLocalLib/obj
+﻿/DotNetLib/CmnLocalLib/obj
 /DotNetLib/CmnLocalLib/bin
-/DotNetLib/.vs/DotNetLib/v16/.suo
-/DotNetLib/DotNetLib/obj/Debug
-/DotNetLib/packages/log4net.2.0.8
