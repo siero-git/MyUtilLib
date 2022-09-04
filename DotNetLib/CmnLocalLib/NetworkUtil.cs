@@ -11,8 +11,10 @@ namespace CmnLocalLib
 {
     public class NetworkUtil
     {
-        public const int PING_NG = -1;
-        public const int PING_OK = 0;
+        #region 定数定義
+        public const int PING_NG = -1;      //PING NG
+        public const int PING_OK = 0;       //PING OK
+        #endregion
 
         /// <summary>
         /// IPアドレス
